@@ -191,11 +191,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Support
 
-For any queries or support, please:
-- Open an issue on GitHub
-- Contact the author directly
-- Check the documentation for common issues
-
+For questions, suggestions, or collaborations:
+- **Email**: [nibirbhuiyan18@gmail.com](nibirbhuiyan18@gmail.com)
+- **LinkedIn**: [linkedin.com/in/mahbub-ul-alam-bhuiyan-289bb8294](linkedin.com/in/mahbub-ul-alam-bhuiyan-289bb8294)
+- **GitHub**: [https://github.com/Mahbub0001](https://github.com/Mahbub0001)
 ---
 
 **Note**: This system provides recommendations based on historical data and machine learning models. Always consult with local agricultural experts before making important farming decisions.
